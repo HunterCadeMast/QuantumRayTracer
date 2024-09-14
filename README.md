@@ -1,8 +1,10 @@
 # QuantumRayTracer
 
-Source Code for basic Ray Tracer (Before fix): https://stackoverflow.com/questions/75277849/raytracing-in-python
-
 This project here is my final project for my quantum computing class. The goal was to recreate a ray tracer with quantum computing elements that hopefully is more efficient than a normal ray tracer. I had started with a basic ray tracer that was not working correctly and fixed some lighting errors. From there, I attempted to create a quantum ray tracer using 'qiskit'. I was successful in creating a somewhat efficient ray tracer and additionally a Monte Carlo ray tracer using similar quantum computing ideas. The PowerPoint presentation in this repository goes over more details for the results of this project.
+
+Source Code for basic Ray Tracer (Before fix): 
+
+https://stackoverflow.com/questions/75277849/raytracing-in-python
 
 Quantum Ray Tracer Sources:
 
