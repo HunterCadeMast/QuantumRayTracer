@@ -118,7 +118,7 @@ I recommend focusing on the shadows to see the difference, along with the edge o
 
 ![Classical Ray Tracing](Photos/RT.png)
 
-### Monte Carlo Sampling with Quantum Supersampling
+### Monte Carlo Sampling
 - Smoother shading.
 - Reduced noise.
 - Improved realism with additional samples.
